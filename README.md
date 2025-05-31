@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Send an email to os.gomez.lozano@gmail.com
 
 # Skills
-- Programming Languages: Python, Java and Rust
+- Programming Languages: Python, Java, JavaScript and Rust
 - Development Tools: Git, Visual Studio Code, IntelliJ, and Google Collab.
 - Software engineering design: UML, design patterns, agile methodologies.
 
