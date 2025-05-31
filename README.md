@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 # Things about me
 - 🔭 I’m currently studying Systems engineering
 - 🌱 I’m currently learning systems design and low-level programming with Rust
-- 🤔 I’m looking for help with any open-source projects
+- 🤔 I want to help with any open source project
 - 📫 How to reach me: Send an email to os.gomez.lozano@gmail.com
 
 # Skills
