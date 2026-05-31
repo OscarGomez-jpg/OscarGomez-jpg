@@ -1,10 +1,14 @@
 # ¡Hola! Soy Oscar Gomez 👋
 
 <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF66&width=450&lines=Software+Engineer;MLOps+%26+AI+Architect;Rust+Enthusiast+%F0%9F%A6%80;Linux+Lover+%F0%9F%90%A7" alt="Typing SVG" />
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=OscarGomez-jpg&label=Vistas%20al%20perfil&color=0e75b6&style=flat" alt="OscarGomez-jpg" />
 </p>
 
-Soy estudiante de **Ingeniería de Sistemas** en la Universidad Icesi. Me muevo en la intersección del **Diseño de Software, la Arquitectura de IA (MLOps), la Ingeniería de Datos y la Infraestructura Cloud**. Me apasiona el software de bajo nivel, la automatización en sistemas operativos y la construcción de pipelines de extremo a extremo.
+Soy estudiante de **Ingeniería de Sistemas** en la Universidad Icesi. Me muevo en la intersección del **Diseño de Software, la Arquitectura de IA (MLOps), la Ingeniería de Datos y la Infraestructura Cloud**.
 
 ---
 
@@ -35,8 +39,6 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad Icesi. Me muevo 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
-> ⚙️ **Pipelines & ETL:** Orquestación de flujos de trabajo orientados a datos, procesamiento distribuido de Big Data y administración de servidores basados en Unix.
-
 ### Lenguajes de Programación
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,14 +50,5 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad Icesi. Me muevo 
 ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarGomez-jpg&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Oscar" />
-</p>
-
----
 
 💡 *¡Gracias por visitar mi perfil! Si te interesa la intersección entre la IA, los datos y la infraestructura de alto rendimiento, ¡conectemos!*
